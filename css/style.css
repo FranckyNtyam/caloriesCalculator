@@ -1,0 +1,41 @@
+*, body {
+    margin: 0;
+}
+
+
+
+footer {
+    background-color: gray;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+
+
+
+/* Media Queries 
+@media only screen and (min-width: 32.5em) {
+    nav ul {
+        flex-direction: row;
+    }
+    
+    nav ul li:first-child {
+        display: none;
+    }
+
+    nav ul li {
+        display: inline;
+        margin: 0 10px;
+    }
+
+    #temples {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media only screen and (min-width: 64em) {
+    #temples {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}*/
